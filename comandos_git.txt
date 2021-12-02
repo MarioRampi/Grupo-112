@@ -9,5 +9,5 @@ git add .
 
 git commit -m 'Un text descriptivo'
 
-VER LOGS
+VER LOGS.
 git logs
