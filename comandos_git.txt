@@ -1,0 +1,5 @@
+CREAR UN REPOSITORIO
+git init
+
+INFO DEL REPOSITORIO
+git status
