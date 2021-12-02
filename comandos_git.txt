@@ -3,3 +3,11 @@ git init
 
 INFO DEL REPOSITORIO
 git status
+
+HACER COMMIT
+git add .
+
+git commit -m 'Un text descriptivo'
+
+VER LOGS
+git logs
