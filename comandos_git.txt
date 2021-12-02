@@ -1,6 +1,8 @@
 CREAR UN REPOSITORIO
 git init
 
+git clone url
+
 INFO DEL REPOSITORIO
 git status
 
@@ -8,6 +10,9 @@ HACER COMMIT
 git add .
 
 git commit -m 'Un text descriptivo'
+
+HACER PUSH
+git push origin rama
 
 VER LOGS.
 git logs
