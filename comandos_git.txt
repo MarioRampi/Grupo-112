@@ -16,3 +16,6 @@ git push origin rama
 
 VER LOGS.
 git logs
+
+ACTUALIZAR REPOSITORIO
+git pull origin rama
